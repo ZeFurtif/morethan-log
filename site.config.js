@@ -15,6 +15,10 @@ const CONFIG = {
       name: `Making a Game!`,
       href: "https://github.com/zefurtif/kelbellum",
     },
+    {
+      name: `Making a 2D Animation Software`,
+      href: "https://github.com/zefurtif/zframe",
+    },
   ],
   // blog setting (required)
   blog: {
