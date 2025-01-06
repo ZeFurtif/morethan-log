@@ -16,7 +16,7 @@ const CONFIG = {
       href: "https://github.com/zefurtif/kelbellum",
     },
     {
-      name: `Making an Animation Software`,
+      name: `And an Animation Software`,
       href: "https://github.com/zefurtif/zframe",
     },
   ],
