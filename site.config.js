@@ -12,11 +12,11 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `Making a Game!`,
+      name: `Kelbellum`,
       href: "https://github.com/zefurtif/kelbellum",
     },
     {
-      name: `And an Animation Software`,
+      name: `zframe`,
       href: "https://github.com/zefurtif/zframe",
     },
   ],
