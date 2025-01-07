@@ -19,6 +19,10 @@ const CONFIG = {
       name: `zframe`,
       href: "https://github.com/zefurtif/zframe",
     },
+    {
+      name: `storyflow`,
+      href: "https://github.com/zefurtif/storyflow",
+    },
   ],
   // blog setting (required)
   blog: {
